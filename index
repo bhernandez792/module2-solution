@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Assignment Solution for Module 2</title>
+		<link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+
+	<h2 class="Title">Our Menu</h2>
+
+
+<div>
+	<h2 class="ContentChicken">lorem ipsum dolor sit amet, consectrtur
+adipisicing elit, sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h2>
+</div>
+
+
+<div>
+	<h2 class="ContentBeef">lorem ipsum dolor sit amet, consectrtur
+adipisicing elit, sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+laboris nisi ut aliquip ex ea commodo consequat.</h2>
+</div>
+
+
+<div>
+	<h2 class="ContentSushi">lorem ipsum dolor sit amet, consectrtur
+adipisicing elit, sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+laboris nisi ut aliquip ex ea commodo consequat.</h2>
+</div>
+
+<div>
+	<h2 class="Beef">Beef</h2>
+</div>
+
+<div>
+	<h2 class="Chicken">Chicken</h2>
+</div>
+
+<div>
+	<h2 class="Sushi">Sushi</h2>
+</div>
+
+
+
+</body>
+</html>
